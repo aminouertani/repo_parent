@@ -1,0 +1,3 @@
+[submodule "repo_sub"]
+	path = repo_sub
+	url = https://github.com/aminouertani/repo_sub.git
